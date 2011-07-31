@@ -65,7 +65,8 @@ class AkkaApiPlugin(val global: Global) extends Plugin {
                                                                     }
                                                                 case Bind(name, body) =>
                                                                     // println(" > " + name)
-                                                                case _ =>                                                            }
+                                                                case _ =>
+                                                            }
                                                         }
                                                     case _ =>
                                                 }
