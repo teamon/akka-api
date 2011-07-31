@@ -1,0 +1,4 @@
+<plugin>
+  <name>akka-api</name>
+  <classname>com.verknowsys.akkaapi.AkkaApiPlugin</classname>
+</plugin>
